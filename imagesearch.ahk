@@ -9,7 +9,7 @@ Gui, Add, Text, x72 y149 w20 h20 , Y
 Gui, Add, Edit, x82 y149 w60 h20 vyval,
 Gui, Add, Button, x162 y19 w100 h30 gimagesearch, Check!
 Gui, Add, Button, x162 y79 w100 h30 gnvalue, Check with *n
-Gui, Add, Button, x162 y139 w100 h30 gresolution, Check!1
+Gui, Add, Button, x162 y139 w100 h30 gresolution, Check!
 Gui, Add, Button, x12 y179 w120 h30 gresn, Resolution + *n
 
 Gui, Show, x583 y290 h229 w280, ImgSearcher
